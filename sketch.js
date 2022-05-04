@@ -15,7 +15,10 @@ var click4444;
 var click5;
 var click55;
 var click555;
-var click5555;
+var click555;
+var click6;
+var click66;
+var click7;
 let timerStart = 0; //variable to hold the start time of each iteration of the timer
 let timerLength = 100; //length of the timer (in milliseconds)
 let timerCount = 0; //number of times the timer has reset
