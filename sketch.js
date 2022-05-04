@@ -511,6 +511,7 @@ function mousePressed() {
     textFont("sans-serif");
     textStyle(BOLD);
     text("Kevin Durant", width / 2.9, height / 1.31);
+    fill("#2f5639");
     textSize(33);
     text("Giannis Antetokounmpo", width / 1.465, height / 1.31);
   }
@@ -530,6 +531,7 @@ function mousePressed() {
     textFont("sans-serif");
     textStyle(BOLD);
     text("Kevin Durant", width / 2.9, height / 1.31);
+    fill("#bf011d");
     textSize(50);
     text("Joel Embiid", width / 1.465, height / 1.31);
   }
@@ -549,6 +551,7 @@ function mousePressed() {
     textFont("sans-serif");
     textStyle(BOLD);
     text("Kevin Durant", width / 2.9, height / 1.31);
+    fill("#181540");
     textSize(50);
     text("Nikola Jokic", width / 1.465, height / 1.31);
   }
@@ -581,7 +584,9 @@ function mousePressed() {
     textSize(50);
     textFont("sans-serif");
     textStyle(BOLD);
+    fill("#305c43");
     text("Jayson Tatum", width / 2.9, height / 1.31);
+    fill("#2f5639");
     textSize(33);
     text("Giannis Antetokounmpo", width / 1.465, height / 1.31);
   }
@@ -600,7 +605,9 @@ function mousePressed() {
     textSize(50);
     textFont("sans-serif");
     textStyle(BOLD);
+    fill("#305c43");
     text("Jayson Tatum", width / 2.9, height / 1.31);
+    fill("#bf011d");
     textSize(50);
     text("Joel Embiid", width / 1.465, height / 1.31);
   }
@@ -619,7 +626,9 @@ function mousePressed() {
     textSize(50);
     textFont("sans-serif");
     textStyle(BOLD);
+    fill("#305c43");
     text("Jayson Tatum", width / 2.9, height / 1.31);
+    fill("#181540");
     textSize(50);
     text("Nikola Jokic", width / 1.465, height / 1.31);
   }
@@ -652,7 +661,9 @@ function mousePressed() {
     textSize(50);
     textFont("sans-serif");
     textStyle(BOLD);
+    fill("#322960");
     text("Devin Booker", width / 2.9, height / 1.31);
+    fill("#2f5639");
     textSize(33);
     text("Giannis Antetokounmpo", width / 1.465, height / 1.31);
     }
@@ -671,7 +682,9 @@ function mousePressed() {
     textSize(50);
     textFont("sans-serif");
     textStyle(BOLD);
+    fill("#322960");
     text("Devin Booker", width / 2.9, height / 1.31);
+    fill("#bf011d");
     textSize(50);
     text("Joel Embiid", width / 1.465, height / 1.31);
     }
@@ -690,7 +703,9 @@ function mousePressed() {
     textSize(50);
     textFont("sans-serif");
     textStyle(BOLD);
+    fill("#322960");
     text("Devin Booker", width / 2.9, height / 1.31);
+    fill("#181540");
     textSize(50);
     text("Nikola Jokic", width / 1.465, height / 1.31);
     }
@@ -723,7 +738,9 @@ function mousePressed() {
     textSize(33);
     textFont("sans-serif");
     textStyle(BOLD);
+    fill("#2f5639");
     text("Giannis Antetokounmpo", width / 2.9, height / 1.31);
+    fill("#bf011d");
     textSize(50);
     text("Joel Embiid", width / 1.465, height / 1.31);
     }
@@ -742,7 +759,9 @@ function mousePressed() {
     textSize(33);
     textFont("sans-serif");
     textStyle(BOLD);
+    fill("#2f5639");
     text("Giannis Antetokounmpo", width / 2.9, height / 1.31);
+    fill("#181540");
     textSize(50);
     text("Nikola Jokic", width / 1.465, height / 1.31);
     }
@@ -775,7 +794,9 @@ function mousePressed() {
     textSize(33);
     textFont("sans-serif");
     textStyle(BOLD);
+    fill("#bf011d");
     text("Joel Embiid", width / 2.9, height / 1.31);
+    fill("#181540");
     textSize(50);
     text("Nikola Jokic", width / 1.465, height / 1.31);
     }
