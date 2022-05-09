@@ -1,4 +1,4 @@
-let gameState = 'main';
+let gameState = 'title';
 var click1;
 var click2;
 var click22;
@@ -370,9 +370,6 @@ function setup() {
 
 function draw() {
   switch (gameState) {
-    case 'main':
-      newTitleScreen();
-      break;
     case 'title':
       titleScreen();
       break;
@@ -437,12 +434,6 @@ function draw() {
 }
 
 function mousePressed() {
-  if (gameState === 'main') {
-    if (mouseIsPressed === true) {
-      gameState = 'title';
-  }
-  print(mouseIsPressed);
-}
   if (gameState === 'title') {
     if (mouseIsPressed === true) {
       gameState = 'starter';
@@ -456,14 +447,6 @@ function mousePressed() {
   }
 }
 
-  function newTitleScreen() {
-    textSize(80);
-    textFont("Segoe UI");
-    textAlign(CENTER);
-    textStyle(BOLD);
-    fill(0);
-    text("New Title Screen", width / 2, height / 2.3);
-  }
 
   function titleScreen() {
     textSize(80);
