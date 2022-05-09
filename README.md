@@ -17,7 +17,7 @@ Selected Player.” The candidate list will consist of about six players who hav
 performing the best so far this season. The Starting Player Selector will either list two or
 three players who are at the bottom of the candidate list.
 
-myNBA PROJECT DESCRIPTION
+myNBAAwards Final PROJECT DESCRIPTION
 To add on my mvppicker project, I will be including other NBA awards, not just the MVP award. There are four more main awards that I am thinking of adding. There is the Defensive Player of the Year award, the Rookie of the Year award, the Most Improved Player award, and the Sixth Man of the Year award. I am leaning towards only adding the Rookie of the Year award and the Most Improved Player award to my project.
 
 TIMELINE
